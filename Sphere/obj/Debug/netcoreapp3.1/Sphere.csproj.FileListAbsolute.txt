@@ -1,0 +1,11 @@
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.exe
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.deps.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.runtimeconfig.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.runtimeconfig.dev.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.dll
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\bin\Debug\netcoreapp3.1\Sphere.pdb
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\obj\Debug\netcoreapp3.1\Sphere.csprojAssemblyReference.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\obj\Debug\netcoreapp3.1\Sphere.AssemblyInfoInputs.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\obj\Debug\netcoreapp3.1\Sphere.AssemblyInfo.cs
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\obj\Debug\netcoreapp3.1\Sphere.dll
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Sphere\Sphere\obj\Debug\netcoreapp3.1\Sphere.pdb
